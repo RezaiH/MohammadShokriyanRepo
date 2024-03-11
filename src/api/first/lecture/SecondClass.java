@@ -12,7 +12,7 @@ public class SecondClass {
 	public String printInformation() {
 		String country = "Afghanistan";
 		String city = "Kabul";
-		String district = "PD05"
+		String district = "PD05";
 			return country+" "+city +" " +district;
 	}
 }
