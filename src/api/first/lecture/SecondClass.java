@@ -8,4 +8,11 @@ public class SecondClass {
 		int age = 28;
 		return name+" "+lName+" is "+age+" years old.";
 	}
+
+	public String printInformation() {
+		String country = "Afghanistan";
+		String city = "Kabul";
+		String district = "PD05"
+			return country+" "+city +" " +district;
+	}
 }
